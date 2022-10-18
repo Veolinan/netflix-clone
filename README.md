@@ -28,7 +28,7 @@
 
 ### Live Site Demo
 
-Demo: [Link](https://netflix-clone-by-shivam.netlify.com/)
+Demo: [Link](https://netflix-clone-by-masigwa.netlify.com/)
 
 ### Video Demo
 
@@ -80,7 +80,7 @@ Netflix clone made with advanced react, redux & firebase which uses redux thunk 
 
 ## Author
 
-- Shivam Aima
+- Masigwa Felix
 
 ---
 
